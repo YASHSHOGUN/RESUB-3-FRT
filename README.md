@@ -6,7 +6,7 @@ This web based E Learning application has been developed for the accomplishment 
 
 Project Link   https://brave-pond-08c06d100.3.azurestaticapps.net/
 
-Demo Link - 
+Demo Link - https://drive.google.com/file/d/140rvG0woghht0EAyXpVcrQb6B6cjQ9Lg/view?usp=sharing
 
 Features and Functionalities 😃 Interactive and responsive UI. Has many graphical and visual innovative effects. Have an aesthetically pleasing visual design and architecture. Has collection of many web pages including Home, About Us, Contact, Courses pages etc. User is able to book a table through the website. Included the feedback Survey form to increase the scope of improvement Screenshots 📸:
 
